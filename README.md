@@ -8,7 +8,7 @@ We present an active mapping system which plans for both long-horizon exploratio
 
 ## Real World Demo 
 
-[Video Link]()
+[Video Link](https://drive.google.com/file/d/1WP74zbzK2OakPPuDxZGo8tyN-iIB9LIP/view?usp=sharing)
 
 ## Setup 
 
